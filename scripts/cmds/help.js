@@ -227,6 +227,7 @@ module.exports = {
 ╭─╼━━━━━━━━╾─╮
 │  📖 | 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗
 │ - Ai
+| - gpt4 (New)
 │ - Translate
 │ - Wordguess
 │ - Guessword
@@ -290,7 +291,7 @@ module.exports = {
 │ - Loadconfig
 │ - Rules
 ╰─━━━━━━━━━╾─╯
-•𝚃𝚈𝙿𝙴 -𝙷𝙴𝙻𝙿 <𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙽𝙰𝙼𝙴>
+•𝚃𝚈𝙿𝙴 ${prefix}help <𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙽𝙰𝙼𝙴>
 𝚃𝙾 𝚂𝙴𝙴 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 
 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 𝙰𝙽𝙳 𝚄𝚂𝙰𝙶𝙴 
 
